@@ -1,4 +1,4 @@
-# pdfwatermark
+# Python mini projects
 python file to water mark pdf from command line
 Need to add PyPDF2 module
 Need sys module 
