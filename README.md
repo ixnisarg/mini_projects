@@ -1,6 +1,4 @@
 # Python mini projects
-python file to water mark pdf from command line
-Need to add PyPDF2 module
-Need sys module 
-
-#good to go
+These are some cool useful python mini projects 
+just add packages and you
+# good to go
